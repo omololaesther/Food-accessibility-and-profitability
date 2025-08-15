@@ -3,7 +3,7 @@
 This project delivers a dynamic dashboard that visualizes key metrics related to food accessibility and profitability across multiple African countries. It empowers stakeholders, researchers, policymakers, and agribusinesses, with actionable insights into regional farming trends, crop performance, and resource utilization.
 
 # Key Features
-Regional Coverage: Visual breakdown of farming regions across 11 countries including Burkina Faso, Egypt, Kenya, and South Africa.
+**Regional Coverage:** Visual breakdown of farming regions across 11 countries including Burkina Faso, Egypt, Kenya, and South Africa.
 
 **Farm Type Distribution:** Pie chart showing proportions of large-scale (53%), medium-scale (27%), and small-scale (19%) farms.
 
