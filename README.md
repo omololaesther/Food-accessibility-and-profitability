@@ -1,4 +1,5 @@
-🌾 Food Accessibility & Profitability Dashboard
+# Food Accessibility & Profitability Dashboard
+
 This project delivers a dynamic dashboard that visualizes key metrics related to food accessibility and profitability across multiple African countries. It empowers stakeholders—researchers, policymakers, and agribusinesses—with actionable insights into regional farming trends, crop performance, and resource utilization.
 
 # Key Features
